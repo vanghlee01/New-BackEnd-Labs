@@ -15,7 +15,7 @@ public class Week03ArraysAndMethodsLab {
 		//
 		
 		// 1. Create an array with the following values 1, 5, 2, 8, 13, 6
-
+		1234abcde
 		
 		// 2. Print out the first element in the array
 	
