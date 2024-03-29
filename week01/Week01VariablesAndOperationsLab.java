@@ -12,7 +12,7 @@ public class Week01VariablesAndOperationsLab {
 
 		// 1. Create a variable to hold the quantity of 
 		//		available plane seats left on a flight		
-
+		Silly changes
 		
 		// 2. Create a variable to hold the cost of groceries at checkout
 
